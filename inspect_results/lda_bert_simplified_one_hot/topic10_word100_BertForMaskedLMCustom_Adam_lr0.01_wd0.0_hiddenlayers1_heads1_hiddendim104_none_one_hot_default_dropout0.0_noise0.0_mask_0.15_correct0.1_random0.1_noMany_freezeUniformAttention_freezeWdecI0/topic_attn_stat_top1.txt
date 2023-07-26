@@ -1,0 +1,6 @@
+Computing statistics for num_topics_per_word=1
+
+layer 0 head 0                 same_token_avg_attn: 0.009999999776482582,                 same_token_cnt: 319724,                 topic_avg_attn: 0.009999999776482582,                 topic_cnt: 1214976,                 non_topic_avg_attn: 0.009999999776482582,                 non_topic_cnt: 3132390,                 empty_topic_avg_attn: 0.009999999776482582,                 empty_topic_cnt: 332910,                 (topic_avg_attn - non_topic_avg_attn): 0.0
+
+Plotting fractions of same vs. different topic attention
+
