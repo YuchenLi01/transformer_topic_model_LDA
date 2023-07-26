@@ -4,7 +4,9 @@ Source code for our ICML 2023 paper [How Do Transformers Learn Topic Structure: 
 
 ## Documentation (under construction)
 
-lda_bert_demo.ipynb: train a BERT model on LDA (topic modeling) data, and plot its attention pattern, and save other information such as attention score statistics, embedding dot products, model parameter visualizations, etc.
+`lda_bert_demo.ipynb`: train a BERT model on LDA (topic modeling) data, and plot its attention pattern, and save other information such as attention score statistics, embedding dot products, model parameter visualizations, etc.
+
+`config/`: the config files are auto-generated when you run the above iPython notebook and set the hyperparameters accordingly.
 
 ## Acknowledgements
 
